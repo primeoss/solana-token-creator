@@ -2,6 +2,8 @@
 
 Create Solana tokens effortlessly for only 0.02 SOL. Our streamlined script, written in TypeScript, not only creates tokens but also includes an option to disable minting. Additional features are currently under development to enhance functionality.
 
+![Solana Token Creator](https://github.com/primeoss/solana-token-creator/blob/main/solana-token-creator.png)
+
 ## Why Choose This Bot?
 
 - **Cost-Effective**: Token creation and mint disablement for just 0.02 SOL, providing a low-cost solution for your token needs.
