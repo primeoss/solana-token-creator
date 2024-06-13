@@ -22,6 +22,7 @@ For more information about this bot, please contact us at:
 
 - **Email**: [prime@oss.one](mailto:prime@oss.one)
 - **Telegram**: [@primeoss](https://t.me/primeoss)
+- **Discord:** primeoss
 
 ---
 
