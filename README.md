@@ -20,9 +20,8 @@ Create Solana tokens effortlessly for only 0.02 SOL. Our streamlined script, wri
 
 For more information about this bot, please contact us at:
 
-- **Email**: [prime@oss.one](mailto:prime@oss.one)
-- **Telegram**: [@primeoss](https://t.me/primeoss)
-- **Discord:** primeoss
+- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 ---
 
