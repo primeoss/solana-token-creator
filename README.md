@@ -20,7 +20,7 @@ Create Solana tokens effortlessly for only 0.02 SOL. Our streamlined script, wri
 
 For more information about this bot, please contact us at:
 
-- **Telegram**: [solanaapisdev](https://t.me/solanaapisdev)
+- **Telegram**: [solanaapis](https://t.me/solanaapis)
 - **Email**: [support@solanaapis.com](mailto:support@solanaapis.com)
 
 ---
